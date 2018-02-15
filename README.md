@@ -7,5 +7,4 @@ Malduino payload. Malduino payload. Loads and executes Monero miner.
 
 Credits: 
 
-xmr-stak - Unified All-in-one Monero miner
-https://github.com/fireice-uk/xmr-stak
+[xmr-stak - Unified All-in-one Monero miner](https://github.com/fireice-uk/xmr-stak)
