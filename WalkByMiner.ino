@@ -2,7 +2,6 @@
 
 void setup()
 {
-  delay(1000);
   Keyboard.begin();
   Keyboard.press(KEY_LEFT_GUI);
   delay(1000);
